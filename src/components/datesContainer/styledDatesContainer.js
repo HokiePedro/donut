@@ -7,7 +7,7 @@ export const DaysWrapper = styled.div`
   justify-content: center;
   align-items: space-around;
   flex-wrap: wrap;
-  background-color: brown;
+  background-color: #eff1f3;
 `;
 
 export const DaysContainer = styled.div`
@@ -16,7 +16,19 @@ export const DaysContainer = styled.div`
   justify-content: center;
   align-items: space-around;
   flex-wrap: wrap;
-  width: 70vw;
-  padding-bottom: 80px;
-  background-color: pink;
+  width: 1000px;
+  padding-bottom: 20px;
+  background-color: #eff1f3;
+  height: 70vh;
+  padding-top: 50px;
+  align-content: flex-start;
+`;
+
+export const HeaderText = styled.div`
+  width: 100%;
+  margin-left: 35px;
+  font-family: helvetica;
+  font-weight: 200;
+  font-size: 20px;
+  height: 40px;
 `;

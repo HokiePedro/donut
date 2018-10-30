@@ -1,8 +1,7 @@
 import React from 'react';
 import {Component} from 'react';
-import dates from '../dates/dates';
 import {LandingPageContainer} from './styledLandingPage';
-import DatesContainer from '../datesContainer/datesContainer';
+import DatesContainer from '../datesContainer';
 
 const LandingPage = () => {
 	return (
