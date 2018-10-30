@@ -55,11 +55,7 @@ module.exports = {
   },
   plugins: [
     new webpack.LoaderOptionsPlugin({options: {}}),
-    new HtmlWebpackPlugin({
-      filename: 'index.html',
-      template: 'index.ejs',
-      baseUrl: '/donut',
-      inject: false}),
+    new HtmlWebpackPlugin({filename: 'index.html', template: 'index.ejs', baseUrl: '/donut/', inject: false}),
     new CopyWebpackPlugin([
       {
         from: './*.*',
