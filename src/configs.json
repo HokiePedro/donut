@@ -1,0 +1,44 @@
+{
+	"dates": {
+	  "monday_10_29": {
+			"name":"Monday",
+			"number":"29"
+		},
+	  "tuesday_10_30": {
+			"name":"Tuesday",
+			"number":"30"
+		},
+	  "wednesday_10_31": {
+			"name":"Wednesday",
+			"number":"31"
+		},
+	  "thursday_11_1": {
+			"name":"Thursday",
+			"number":"1"
+		},
+	  "friday_11_2": {
+			"name":"Friday",
+			"number":"2"
+		},
+	  "monday_11_5": {
+			"name":"Monday",
+			"number":"5"
+		},
+	  "tuesday_11_6": {
+			"name":"Tuesday",
+			"number":"6"
+		},
+	  "wednesday_11_7": {
+			"name":"Wednesday",
+			"number":"7"
+		},
+	  "thursday_11_8": {
+			"name":"Thursday",
+			"number":"8"
+		},
+	  "friday_11_9": {
+			"name":"Friday",
+			"number":"9"
+		}
+	}
+}
